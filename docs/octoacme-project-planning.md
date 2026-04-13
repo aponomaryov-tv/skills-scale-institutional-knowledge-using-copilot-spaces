@@ -15,6 +15,7 @@ Turn an approved initiative into an actionable plan and backlog for delivery.
 4. Define Definition of Done (DoD)
 5. Identify dependencies and integration points
 6. Create release plan and milestone map
+7. Confirm role ownership using the lifecycle RACI matrix
 
 ## Backlog Item Template
 - Title:
@@ -34,6 +35,7 @@ Turn an approved initiative into an actionable plan and backlog for delivery.
 - Capture in Risk Register:
   - ID, Description, Impact, Probability, Owner, Mitigation
 - Mark cross-team dependencies in the project board and escalate during weekly syncs
+- Align owners and escalation levels with [Process Templates, RACI, and Decision Gates](./octoacme-process-templates-and-gates.md#lightweight-raci-by-lifecycle-stage)
 
 ## Planning Checklist
 - [ ] Project kickoff held
@@ -41,3 +43,5 @@ Turn an approved initiative into an actionable plan and backlog for delivery.
 - [ ] Release timeline and milestones agreed
 - [ ] Definition of Done documented
 - [ ] Initial test plan / QA approach drafted
+- [ ] Weekly status reporting format agreed using [Weekly Status Update Template](./octoacme-process-templates-and-gates.md#weekly-status-update-template)
+- [ ] Gate 2 checklist completed in [Process Templates, RACI, and Decision Gates](./octoacme-process-templates-and-gates.md#gate-2-planning---execution)
