@@ -18,3 +18,4 @@ Quality assurance and risk management are integrated into normal delivery and re
 - [Release and Deployment](./octoacme-release-and-deployment.md)
 - [Retrospective and Continuous Improvement](./octoacme-retrospective-and-continuous-improvement.md)
 - [Roles and Personas](./octoacme-roles-and-personas.md)
+- [Process Templates, RACI, and Decision Gates](./octoacme-process-templates-and-gates.md)

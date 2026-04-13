@@ -19,6 +19,7 @@ Applies to all cross-functional projects that deliver product features, services
 - Developers: implement features, collaborate on design and testability.
 - QA/Testing: validate quality and acceptance criteria.
 - Stakeholders: provide inputs and approvals.
+- See [Roles and Personas](./octoacme-roles-and-personas.md) for expanded cross-functional role definitions and interaction patterns.
 
 ## Key Artifacts
 - Project Charter / One-pager
@@ -27,6 +28,7 @@ Applies to all cross-functional projects that deliver product features, services
 - Acceptance Criteria & Definition of Done
 - Risk Register
 - Retrospective notes and action items
+- [Process Templates, RACI, and Decision Gates](./octoacme-process-templates-and-gates.md)
 
 ## Lifecycle (high-level)
 1. Initiation: problem statement, stakeholders, high-level timeline.
@@ -44,3 +46,4 @@ Applies to all cross-functional projects that deliver product features, services
 ## How to use these docs
 - Keep the Project Charter updated in the project repo.
 - Add process-specific docs into `.copilot/` if you want Copilot Spaces to use them as context.
+- Use the lifecycle gate checklists and templates to keep decisions, ownership, and communications consistent across projects.

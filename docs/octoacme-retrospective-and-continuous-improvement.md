@@ -20,6 +20,8 @@ After each sprint, release, or important milestone. Also after incidents.
 ## Tracking Improvements
 - Add action items to the project backlog or issues with clear owners and timelines
 - Review outstanding actions in the weekly PM sync
+- Confirm Gate 5 readiness in [Process Templates, RACI, and Decision Gates](./octoacme-process-templates-and-gates.md#gate-5-retrospective---next-cycle)
+- Update role ownership if responsibilities changed, referencing [Roles and Personas](./octoacme-roles-and-personas.md)
 
 ## Example Action Item Template
 - Title:
@@ -31,3 +33,4 @@ After each sprint, release, or important milestone. Also after incidents.
 ## Continuous Improvement Culture
 - Measure impact of action items
 - Celebrate improvements and make small, iterative changes
+- Track outcome metrics with Data Analyst / Analytics support to verify improvements are effective
